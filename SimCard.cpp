@@ -11,3 +11,4 @@ SimCard::SimCard(int id, const string& phoneNumber, const string& carrier, const
 	cout << "SIM-карта " << phoneNumber << " создана с тарифом " << tariffPlan << endl;
 }
 
+

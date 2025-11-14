@@ -7,6 +7,7 @@
 #include "RepairInfo.hpp"
 #include "RepairRequest.hpp"
 #include "SimCard.hpp"
+
 #include <locale.h>
 
 using namespace std;
