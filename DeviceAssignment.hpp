@@ -25,5 +25,6 @@ public:
 	time_t getAssigmentDate() const { return assigmentDate; }
 	string getDeviceCondition() const { return deviceCondition; }
 	bool getIsSigntd() const { return isSigned; }
+
 };
 
