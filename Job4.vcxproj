@@ -125,7 +125,6 @@
   <ItemGroup>
     <ClCompile Include="DeviceAssignment.cpp" />
     <ClCompile Include="Employeecpp.cpp" />
-    <ClCompile Include="Job4.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MobileDevice.cpp" />
     <ClCompile Include="RepairInfo.cpp" />
