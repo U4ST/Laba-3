@@ -26,5 +26,6 @@ public:
 	string getDeviceCondition() const { return deviceCondition; }
 	bool getIsSigntd() const { return isSigned; }
 
+
 };
 
